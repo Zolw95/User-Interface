@@ -64,3 +64,13 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+nav {
+	background: palevioletred;
+	padding: 20px;
+}
+
+header, section, nav, footer {
+	border: 1px solid;
+	margin: 5px;
+}
